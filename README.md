@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## First time to use Github Pages
 
 You can use the [editor on GitHub](https://github.com/zyluo24/zyluo24.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
